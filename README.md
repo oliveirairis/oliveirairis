@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey👋
 
-<!--
-**oliveirairis/oliveirairis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Iris Oliveira, I'm from Brazil.
+I'm currently studying "Sistemas para Internet" at Fatec Rubens Lara.🎓
+My goal is to become and work as a **Back-end developer**.👩🏻‍💻💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔎Always open to new **challenges**
+ - 📚Passionate about learning
+
+My journey as becoming a dev is just beginning, but I already have notions on Python, CSS3 and HTML5.👾
+
+**Reach me out** 👇
+
+ - [LinkedIn](https://www.linkedin.com/in/iris-oliveira-06218319b/)
+ - [Facebook](https://www.facebook.com/irisoliveira00/)
