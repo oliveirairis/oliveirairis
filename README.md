@@ -23,5 +23,5 @@ My journey as becoming a dev is just beginning, but I already have notions on Py
 
 **Reach me out** 👇
 
- - [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iris-oliveira-06218319b/)](https://www.linkedin.com/in/iris-oliveira-06218319b/) 
+ - [![Linkedin Badge](https://img.shields.io/badge/-Iris%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iris-oliveira-06218319b/)](https://www.linkedin.com/in/iris-oliveira-06218319b/) 
  - [Facebook](https://www.facebook.com/irisoliveira00/)
