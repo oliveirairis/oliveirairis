@@ -6,8 +6,10 @@ I'm currently studying "Sistemas para Internet" at Fatec Rubens Lara.🎓
 
 My goal is to become and work as a **Back-end developer**.👩🏻‍💻💻
 
-
+ 
+ 
 ✨ **“Na vida, não existe nada a temer, mas a entender.”** 🧠
+
 
 
  - 🔎Always open to new **challenges**
