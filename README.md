@@ -9,8 +9,7 @@ My goal is to become and work as a **Back-end developer**.👩🏻‍💻💻
  
  
  
-✨ **“Na vida, não existe nada a temer, mas a entender.”** 🧠
-
+#### ✨ **“Na vida, não existe nada a temer, mas a entender.”** 🧠
 
 
 
