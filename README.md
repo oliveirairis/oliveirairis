@@ -8,7 +8,9 @@ My goal is to become and work as a **Back-end developer**.👩🏻‍💻💻
 
  
  
+ 
 ✨ **“Na vida, não existe nada a temer, mas a entender.”** 🧠
+
 
 
 
@@ -17,6 +19,7 @@ My goal is to become and work as a **Back-end developer**.👩🏻‍💻💻
 
 
 My journey as becoming a dev is just beginning, but I already have notions on Python, CSS3 and HTML5.👾
+
 
 **Reach me out** 👇
 
