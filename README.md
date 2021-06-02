@@ -24,3 +24,5 @@ My journey as becoming a dev is just beginning, but I already have notions on Py
 
  - [![Linkedin Badge](https://img.shields.io/badge/-Iris%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iris-oliveira-06218319b/)](https://www.linkedin.com/in/iris-oliveira-06218319b/) 
  - [![Gmail Badge](https://img.shields.io/badge/-santosoliveirairis@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosoliveirairis@gmail.com)](mailto:santosoliveirairis@gmail.com)
+
+![Snake animation](https://github.com/oliveirairis/oliveirairis/blob/output/github-contribution-grid-snake.svg)
