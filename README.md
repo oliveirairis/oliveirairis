@@ -27,3 +27,7 @@ My journey as becoming a dev is just beginning, but I already have notions on Py
  - [![Gmail Badge](https://img.shields.io/badge/-santosoliveirairis@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosoliveirairis@gmail.com)](mailto:santosoliveirairis@gmail.com)
 
 ![Snake animation](https://github.com/oliveirairis/oliveirairis/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirairis&show_icons=true&theme=tokyonight)
+</div>
