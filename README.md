@@ -28,5 +28,5 @@ My journey as becoming a dev is just beginning, but I already have notions on Py
 
 ![Snake animation](https://github.com/oliveirairis/oliveirairis/blob/output/github-contribution-grid-snake.svg)
 
-![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirairis&show_icons=true&theme=tokyonight)
+![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirairis&show_icons=true&theme=jolly)
 
