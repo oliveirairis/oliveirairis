@@ -29,5 +29,5 @@ My journey as becoming a dev is just beginning, but I already have notions on Re
 ![Snake animation](https://github.com/oliveirairis/oliveirairis/blob/output/github-contribution-grid-snake.svg)
 
 ![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirairis&show_icons=true&theme=jolly)
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirairis&layout=compact&langs_count=16&theme=jolly"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirairis&layout=compact&langs_count=16&theme=jolly"/>
 
