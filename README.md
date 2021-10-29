@@ -4,7 +4,7 @@ My name is Iris Oliveira, I'm from Brazil.
 
 I'm currently studying "Sistemas para Internet" at Fatec Rubens Lara.🎓
 
-My goal is to become and work as a **Back-end developer**.👩🏻‍💻💻
+My goal is to become and work as a **Front-end developer**.👩🏻‍💻💻
 
  
  
@@ -17,7 +17,7 @@ My goal is to become and work as a **Back-end developer**.👩🏻‍💻💻
  - 📚Passionate about learning
 
 
-My journey as becoming a dev is just beginning, but I already have notions on Python, CSS3 and HTML5.👾
+My journey as becoming a dev is just beginning, but I already have notions on React Native, Python and JavaScript.👾
 
 
 **Reach me out** 👇
