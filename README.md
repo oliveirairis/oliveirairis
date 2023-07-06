@@ -7,9 +7,7 @@ I'm currently studying "Sistemas para Internet" at Fatec Rubens Lara.🎓
 I'm working as a **junior front-end developer**.👩🏻‍💻💻
 
  
- 
- 
-### ✨ **“Na vida, não existe nada a temer, mas a entender.”** 🧠
+
 
 ![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirairis&show_icons=true&theme=jolly)
 
@@ -17,7 +15,7 @@ I'm working as a **junior front-end developer**.👩🏻‍💻💻
  - 📚Passionate about learning
 
 
-My journey as becoming a dev is just beginning, but I already have notions on React Native, Python and JavaScript.👾
+My journey as becoming a dev is just beginning, but I already have notions on React Native, Javascript and Java.👾
 
 
 **Reach me out** 👇
