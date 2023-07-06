@@ -8,9 +8,6 @@ I'm working as a **junior front-end developer**.👩🏻‍💻💻
 
  
 
-
-![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveirairis&show_icons=true&theme=jolly)
-
  - 🔎Always open to new **challenges**
  - 📚Passionate about learning
 
